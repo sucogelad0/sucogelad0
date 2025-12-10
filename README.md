@@ -1,4 +1,12 @@
-## Hi there 👋
+## João Vinicius
+
+🎓 18 anos | Estudante de ADS na CESAR School <br>
+💻 Desenvolvedor beckend<br>
+🎮 iniciando na área da tecnologia<br>
+
+---
+
+<i class="fa-brands fa-python"></i>Python
 
 <!--
 **sucogelad0/sucogelad0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
